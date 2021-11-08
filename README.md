@@ -2,10 +2,10 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LimDae94)](https://github.com/anuraghazra/github-readme-stats)
 ---
-### How are you doing?
+### How are you doing?🔥
 
 Algorithm
-Kotlin
+Kotlin✨
 OpenCV
 Python
 
