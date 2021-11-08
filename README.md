@@ -2,6 +2,12 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LimDae94)](https://github.com/anuraghazra/github-readme-stats)
 
+### How are you doing?
+
+Algorithm
+Kotlin
+OpenCV
+Python
 
 <!--
 **LimDae94/LimDae94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
