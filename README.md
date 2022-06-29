@@ -6,22 +6,16 @@
 
 ---
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=LimDae94&hide=contribs&count_private=true&show_icons=true&bg_color=00000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)
+
 <br>
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LimDae94&hide=contribs&count_private=true&show_icons=true&bg_color=00000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=piay801)](https://solved.ac/piay801)
 
 <br>
 <br>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=piay801)](https://solved.ac/piay801)
-
-<br>
-<br>
-
 
 ## What am I studying in July 2022?
 
