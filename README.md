@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=150&section=header&text=DaeIi%20Lim&fontSize=80&animation=twinkling)](https://github.com/LimDae94)
+[![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=150&section=header&text=DaeIl%20Lim&fontSize=80&animation=twinkling)](https://github.com/LimDae94)
 
 ---
 
@@ -6,21 +6,14 @@
 
 ---
 
-<br>
-
 ## 🌠 GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LimDae94&hide=contribs&count_private=true&show_icons=true&bg_color=00000000&title_color=4B7BE5&icon_color=4B7BE5&text_color=e6e6e6)
 
-<br>
-<br>
 
 ## 🏅 Baekjoon solved Rank and MUL
 <left><img height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimDae94&langs_count=8&layout=compact" /></left>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=piay801)](https://solved.ac/piay801)
-
-<br>
-<br>
 
 ## What am I studying in 2022?
 
