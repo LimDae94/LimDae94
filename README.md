@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=150&section=header&text=DaeIl%20Lim&fontSize=80&animation=twinkling)](https://github.com/LimDae94)
+[![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=150&section=header&text=듀찌%20황&fontSize=80&animation=twinkling)](https://github.com/LimDae94)
 
 ---
 
